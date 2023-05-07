@@ -1,0 +1,68 @@
+.header{
+  display: flex;
+  margin-top: 0.2%;
+  padding-bottom: 1%;
+  box-shadow: 0px 4px 2px 0px rgba(109, 3, 86, 0.12);
+}
+
+.p-menubar{
+  height: 50px;
+  border:none;
+ }
+.mm{
+  display: flex;
+  height: 40px;
+}
+.p-menubar-root-list{
+  box-shadow: 0px 3px 10px 2px rgba(121, 4, 95, 0.12), 0px 1px 3px 3px rgba(121, 78, 94, 0.14), 0px 3px 3px rgba(0, 0, 0, 0.2);
+}
+.p-submenu-list{
+  box-shadow: 0px 3px 10px 2px rgba(121, 4, 95, 0.12), 0px 1px 3px 3px rgba(121, 78, 94, 0.14), 0px 3px 3px rgba(0, 0, 0, 0.2)!important;
+}
+.search{
+  max-width: 200px !important;
+}
+.p-button{
+  padding: 0px !important;
+  background-color: rgb(156, 39, 176);
+  margin-right:1%;
+  margin-left:1%;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.12), 0px 4px 5px rgba(0, 0, 0, 0.14), 0px 2px 4px -1px rgba(0, 0, 0, 0.2);
+}
+
+.p-avatar{
+  margin: auto !important;
+  
+}
+.profile{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+#profile{
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+.list{
+  border-radius: 0px;
+  height: 45px;
+  width: 250px;
+}
+.panel{
+  background-color: #9B27AF;
+}
+.logout{
+  background-color: #7248BC;
+  margin-left: 2px;
+  border-radius: 0px;
+  height: 40px;
+  width: 250px;
+  text-align: center !important;
+}
+.p-button{
+  padding: 5px !important;
+}
